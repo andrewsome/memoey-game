@@ -1,1 +1,1 @@
-# memoey-game
+# memory-game
